@@ -1,0 +1,152 @@
+*
+{
+    /* border: 2px solid rebeccapurple; */
+}
+.logoLink
+{
+    padding-left: 13%;
+    margin-top:15px ;
+    height: 35px;
+    
+}
+body
+{
+    background-color: rgb(234, 232, 232);
+}
+.mb
+{
+    text-align: center;
+    font-size: 15px;
+     font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}
+.tnc
+{
+    font-size: small;
+    padding-left: 25px;
+}
+.pol
+{
+    text-decoration: none;
+    color: rgba(22, 22, 236, 0.95);
+}
+.pol:hover
+{
+    color: rgb(73, 2, 145);
+    text-decoration: underline;
+}
+.or
+{
+    display: flex;
+}
+.SignUpPanel
+{
+    border-radius: 15px;
+    margin: 0px 550px 0px 550px;
+    padding: 10px 10px 10px 40px;
+    /* background-color: rgb(212, 206, 206); */
+    background-color: rgb(233, 228, 228);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.emailPhone
+{
+    width: 300px;
+    height: 20px;
+    margin-top: 2px;
+}
+.password
+{
+    
+    width: 300px;
+    height: 20px;
+}
+.butt
+{
+    /* background-color: rgba(0, 0, 255, 0.566); */
+    background-color: rgb(77, 77, 246);
+    color: white;
+    border-radius: 15px;
+    padding: 10px 120px 10px 120px;   
+}
+.butt:hover
+{
+    cursor: pointer;
+    background-color: rgb(55, 43, 226);
+}
+.google
+{
+    display: flex;
+    border-radius: 15px;
+    background-color: white;
+    border: 1px solid grey;
+    padding: 10px 85px 10px 85px;   
+}
+.google:hover
+{
+    cursor: pointer;
+}
+.signnin
+{
+    text-decoration: none;
+    color: rgba(66, 66, 255, 0.95);
+}
+.signnin:hover
+{
+    color: rgb(73, 2, 145);
+    text-decoration: underline;
+}
+.g
+{
+    padding-left: 5px;
+    
+}
+.goog
+{
+    width: 15px;
+}
+
+.lin{
+    text-align: center;
+}
+.helppp
+{
+text-align: center;
+}
+.help
+{
+    text-decoration: none;
+}
+.help:hover
+{
+    text-decoration: underline;
+}
+.foot
+{
+    background-color: white;
+    margin-top: 75px;
+    padding-bottom: 15px;
+    /* padding-top: 15px; */
+    
+}
+.foot ul
+{
+    display: flex;
+    padding-left: 125px;
+    list-style: none;
+}
+.foot ul li
+{
+    padding-left: 30px;
+    font-size: 15px;
+    
+}
+.foot ul li a
+{
+    text-decoration: none;
+    color: black;
+}
+.foot ul li a:hover
+{
+    text-decoration: underline;
+    color: rgba(41, 41, 191, 0.874);
+}
